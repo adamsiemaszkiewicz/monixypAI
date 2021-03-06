@@ -1,3 +1,8 @@
+weights/
+stylegan2-ada/
+stylegan2-ada-pytorch/
+monixypAI
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
