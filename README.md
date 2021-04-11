@@ -1,5 +1,5 @@
 # monixypAI
-**Search Dezeen.com interior library for specific objects and colours**
+**New art forms discovery inspired by the artwork by [Monika Polak](https://monikapolak.art/).**
 
 *by Adam Siemaszkiewicz*
 
