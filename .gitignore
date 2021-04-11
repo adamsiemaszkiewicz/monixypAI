@@ -1,7 +1,12 @@
 weights/
 stylegan2-ada/
 stylegan2-ada-pytorch/
+stylegan2-pytorch/
+maua-stylegan2/
+out/
 monixypAI
+stylegan2-ada_old/
+stylegan2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
